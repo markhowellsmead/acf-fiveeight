@@ -8,6 +8,7 @@ into practice. Test environment at the time of initial development uses
 * WordPress 4.9.8
 * PHP 7.1
 * Gutenberg plugin 4.2.0
+* Advanced Custom Fields 5.8 (beta)
 
 ## Credits and stuff
 
